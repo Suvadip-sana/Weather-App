@@ -1,0 +1,21 @@
+.InfoBox{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* min-width: 400px !important; */
+    margin-top: 2rem;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+    margin-right: -1.5rem !important;
+    margin-top: 0 !important;
+    object-fit: contain; 
+    display: block; 
+    margin: 0 auto;
+}
+
+span{
+    font-size: 0.8rem;
+}
